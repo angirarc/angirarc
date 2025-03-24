@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter-000?logo=flutter&logoColor=0175C2)
 ![React Native](https://img.shields.io/badge/React_Native-000?logo=react&logoColor=0175C2)
 
-## :octocat: My Interests and future prospects in tech... 
-- Machine Learning & AI ⚛️
+## :octocat: Other Fields of Interest... 
+- Machine Learning, LLMs & AI ⚛️
 - Blockchain ⛓️
-- Data Analysis 📈
+- Cyber Security 🥷
 
 
 ## 📱 Get in touch with me
