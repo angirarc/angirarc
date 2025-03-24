@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **angirarc/angirarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,11 +23,18 @@ Here are some ideas to get you started:
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js&logoColor=#4FC08D)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=blue&color=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=0175C2)
+
+- 📚 Frameworks ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js&logoColor=#4FC08D)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=blue&color=white)
 ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=0175C2) 
 
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
-- 💼 Techonologies ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=green) ![linux](https://img.shields.io/badge/-linux-000?&logo=linux) ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)![Django](https://img.shields.io/badge/-Django-000?&logo=django) ![Mongodb](https://img.shields.io/badge/-Mongo-000?&logo=mongodb&logoColor=#47A248) ![GraphQl](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=#ff69b4) [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/) [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/) 
+- 💼 Techonologies ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=green) ![linux](https://img.shields.io/badge/-linux-000?&logo=linux) ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)![Flask](https://img.shields.io/badge/-flask-000?&logo=django) [Django](https://img.shields.io/badge/-Django-000?&logo=django) ![Mongodb](https://img.shields.io/badge/-Mongo-000?&logo=mongodb&logoColor=#47A248) ![GraphQl](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=#ff69b4) [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/) [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/) 
 
 ## :octocat: My Interests and future prospects in tech... 
 - Machine Learning & AI ⚛️
