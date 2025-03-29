@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 👨‍💻 👋 Hi there! I'm (Reinhardt)
+## 👨‍💻 👋 Hi there! I'm Reinhardt
 
 ## 🤓 About Me
 - 💻 Full Stack Software Engineer
