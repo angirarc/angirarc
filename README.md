@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 
 ## 📱 Get in touch with me
-- Reach out to me via [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:reinhardtcollins@live.com)  [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/abc254)  [![LinkedIn](https://img.shields.io/badge/linkedin-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/reinhardt-angira-9bb629178/)
+- Reach out to me via [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:reinhardtcollins@live.com)  [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/angira_rc)  [![LinkedIn](https://img.shields.io/badge/linkedin-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/reinhardt-angira-9bb629178/)
 
 
 
