@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 - 💻 Full Stack Software Engineer
 - 📚 Languages ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js&logoColor=#4FC08D)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=blue&color=white)
 ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=0175C2)
@@ -30,6 +28,8 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=green) 
 ![linux](https://img.shields.io/badge/-linux-000?&logo=linux) 
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis) 
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js&logoColor=#4FC08D)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Flask](https://img.shields.io/badge/-flask-000?&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
