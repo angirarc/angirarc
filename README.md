@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 👨‍💻 👋 Hi there! I'm Reinhardt
 
 ## 🤓 About Me
-- 💻 Full Stack Software Engineer
+- 💻 Senior Software Engineer
 - 📚 Languages ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
