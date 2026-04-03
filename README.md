@@ -45,11 +45,10 @@ Here are some ideas to get you started:
 - Blockchain ⛓️
 - Cyber Security 🥷
 
-
 ## 📱 Get in touch with me
 - Reach out to me via [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:reinhardtcollins@live.com)  [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/angira_rc)  [![LinkedIn](https://img.shields.io/badge/linkedin-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/reinhardt-angira-9bb629178/)
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angirarc&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angirarc)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![text](https://user-images.githubusercontent.com/32560913/204735723-e19bb0c4-ebca-470b-b339-4905d49d737e.gif) -->
